@@ -1,0 +1,22 @@
+# R specific files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Mac specific files
+.DS_Store
+
+# Large data files (uncomment if needed)
+# *.csv.gz
+# *.rds
+
+# Rendered output files (uncomment if you don't want to include HTML/PDF in repo)
+# *.html
+# *.pdf
+
+# R environment variables
+.Renviron
+
+# RStudio project files
+*.Rproj
