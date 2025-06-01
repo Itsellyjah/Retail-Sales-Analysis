@@ -1,0 +1,8 @@
+Discount_Range,Recommended_For,Expected_Profit_Impact
+0%,High-margin technology products and premium office supplies,Highest profit margins (15-20%)
+1-10%,Most products - good balance of sales volume and profitability,Good profit margins (10-15%)
+11-20%,Office supplies and selected furniture items,Moderate profit margins (5-10%)
+21-30%,Furniture items to boost sales volume,Low profit margins (0-5%)
+31-40%,Limited use - significant profit impact,Risk of negative margins
+41-50%,Avoid - typically results in negative profit,Typically negative margins
+51-100%,Avoid - consistently negative profit margins,Consistently negative margins
