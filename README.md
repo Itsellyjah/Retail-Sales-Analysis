@@ -109,5 +109,17 @@ This repository contains a comprehensive analysis of retail sales data from the 
 - Bundle frequently co-purchased items for promotions
 
 ## Tools Used
-- Python (pandas, matplotlib, seaborn) for data analysis and visualization
-- Git/GitHub for version control and collaboration
+- Python (pandas, matplotlib, seaborn)
+- R (tidyverse, lubridate)
+- Tableau Public for interactive dashboards
+- Git for version control
+
+## Interactive Dashboards
+
+Two interactive Tableau Public dashboards have been created to explore the data:
+
+1. **Regional Sales & Product Performance Dashboard**  
+   [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/your.profile/viz/your-dashboard-1)
+
+2. **Customer Segments & Seasonal Trends Dashboard**  
+   [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/your.profile/viz/your-dashboard-2)
